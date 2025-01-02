@@ -6,3 +6,6 @@
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+- [x] creat my first list with markdown
+- [x] cloud is fun
+- [ ] Hello im gideon
